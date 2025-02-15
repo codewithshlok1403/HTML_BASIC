@@ -1,7 +1,6 @@
 # HTML_BASIC
 HTML Tags and Elements Practice Repository
 This repository is a collection of various HTML files demonstrating different HTML tags and elements. Each file showcases a specific HTML feature, making it a helpful resource for beginners or anyone looking to practice and experiment with HTML.
-
 Files Included:
 01.INDEX.html - A basic index HTML file that serves as the starting point.
 02.PROJECT.html - Demonstrates HTML structure used for projects.
